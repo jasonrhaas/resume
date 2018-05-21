@@ -19,12 +19,13 @@ experience as an engineer. I'm good at working independently, getting
 things done, and leading other engineers.
 
 ## EDUCATION
-### Lehigh University, Bethlehem, PA
+**Lehigh University, Bethlehem, PA**
+
 M.S. & B.S. Electrical Engineering, September 2006  
 Honors:  Presidential Scholarship, Phi Eta Sigma
 
 ## PROFESSIONAL EXPERIENCE
-### Founder - Data North, Mar. 2017 - Present (Remote)
+**Founder - Data North, Mar. 2017 - Present (Remote)**
 
 I work mostly on back-end web development, APIs, big data platforms, and blockchain (Ethereum). I'm also very good with AWS, setting up architectures and automated systems (continuous integration/delivery). I do some front-end work as well when required.
 
@@ -35,7 +36,7 @@ Some things I've built recently:
 - Django web application integration for an Ethereum smart contract. Used web3, truffle, javascript, python.
 - Data extraction for arbitrary financial transactions in bank statement PDFs (ETL)
 
-### Senior Software Engineer - IST Research, Nov. 2014 - Mar. 2017 (Remote)
+**Senior Software Engineer - IST Research, Nov. 2014 - Mar. 2017 (Remote)**
 
 At IST Research, I have been doing software development and setting up large scale distributed data systems. Most work has been funded by DARPA's MEMEX program. Responsibilities include:
 
@@ -46,7 +47,7 @@ At IST Research, I have been doing software development and setting up large sca
 - Set up data visualization dashboards using the Elasticsearch, Logstash, Kibana (ELK) stack.
 - Work in a distributed engineering environment, interacting with the majority of co-workers through Slack, Google hangouts, and Github.
 
-### System Design Engineer - Boeing, March 2009 - October 2014
+**System Design Engineer - Boeing, March 2009 - October 2014**
 
 - Act as primary technical interface to customers on multiple programs.
 - Integrate and test complex network based systems – Linux, Solaris 10, Ubuntu, Windows 7.
@@ -59,7 +60,7 @@ At IST Research, I have been doing software development and setting up large sca
 - Work on technical white papers for proposed system solutions.
 - Develop system engineering solutions to obsolescence issues and perform trade studies.
 
-### RF Systems Engineer - Lockheed Martin, September 2006 - March 2009
+**RF Systems Engineer - Lockheed Martin, September 2006 - March 2009**
 
 - Over 2 years experience in integration and test on RF based systems and troubleshooting issues.
 - Focused on prosecution of wireless communication signals (FSK, PSK, OOK, CDMA, TDMA).
@@ -71,7 +72,8 @@ At IST Research, I have been doing software development and setting up large sca
 - Demonstrated technical capabilities of the software to the customer.
 	
 ## VOLUNTEER
-### Tutor - Buckingham Youth Brigade, 2011 - 2014
+**Tutor - Buckingham Youth Brigade, 2011 - 2014**
+
 - Worked with underprivileged students ranging from middle school to college level.
 - Facilitated tutoring sessions and helping the students with various school and work related issues.  
 
