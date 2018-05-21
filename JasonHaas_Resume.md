@@ -2,15 +2,32 @@
 
 > jasonrhaas@gmail.com  
 > linkedin.com/in/jasonrhaas  
-> (551) 206-1297
+> jasonrhaas.com/resume  
+> (512) 400-5843  
 
-## SUMMARY Systems engineer turned software engineer and linux hacker. My focus right now is on big data streams -- especially web and social networks.  
-**Experience** - I have a M.S. in electrical engineering and 8 years experience as an engineer.  I'm good at working independently, getting things done, and leading other engineers.
+## SUMMARY Python developer, engineer, data guru, entrepreneur. I build software tools that operate at scale. I’m a believer in open source, using the right tool for the job, and automating the boring stuff. 
 
-**Technical Skills** -- I'm a Python developer but also do DevOps work and some project management.  I'm especially good at using Python and Linux to get things done quickly. I don't prescribe to one doctrine or technology but believe in using the right tool for the job.
+OPEN SOURCE - I'm a believer in OSS and love being part of the community. You can look at my open source contributions at https://github.com/jasonrhaas
 
-**Technology Stack** - Python, bash, linux, git, ELK (elasticsearch, logstash, kibana), ansible, kafka, scrapy, vagrant, docker, storm, spark, hbase.
-## EDUCATION### Lehigh University, Bethlehem, PAM.S. & B.S. Electrical Engineering, September 2006  Honors:  Presidential Scholarship, Phi Eta Sigma## PROFESSIONAL EXPERIENCE### Software Engineer - IST Research, Nov. 2014 - PresentAt IST Research, I have been doing software development and setting up large scale distributed data systems. Most work has been funded by DARPA's MEMEX program. Responsibilities include:
+TECHNOLOGY STACK - Python, linux, AWS, git, docker, flask, django, ORMs, APIs, blockchain (Ethereum), kafka, ELK (elasticsearch, logstash, kibana), Spark.
+
+EXPERIENCE - I have a M.S. in electrical and computer engineering and 10 years
+experience as an engineer. I'm good at working independently, getting
+things done, and leading other engineers.
+## EDUCATION### Lehigh University, Bethlehem, PAM.S. & B.S. Electrical Engineering, September 2006  Honors:  Presidential Scholarship, Phi Eta Sigma## PROFESSIONAL EXPERIENCE
+### Founder - Data North, Mar. 2017 - Present (Remote)
+
+I work mostly on back-end web development, APIs, big data platforms, and blockchain (Ethereum). I'm also very good with AWS, setting up architectures and automated systems (continuous integration/delivery). I do some front-end work as well when required.
+
+Some things I've built recently:
+
+- A server-less and micro-service architecture for a cloud-based IoT security system. Technologies used: Python, Flask, Swagger, AWS Lambda, AWS Fargate.
+- A fully automated system for running tests, builds, and deploys, using Gitlab and Kubernetes.
+- Django web application integration for an Ethereum smart contract. Used web3, truffle, javascript, python.
+- Data extraction for arbitrary financial transactions in bank statement PDFs (ETL)
+### Software Engineer - IST Research, Nov. 2014 - Mar. 2017 (Remote)
+
+At IST Research, I have been doing software development and setting up large scale distributed data systems. Most work has been funded by DARPA's MEMEX program. Responsibilities include:
 
 - Drive remote engineering development of data collection and visualization systems. 
 - Develop Python software focused on data collection, parsing and aggregation. See github.com/istresearch for open source software.
@@ -42,4 +59,4 @@
 - Demonstrated technical capabilities of the software to the customer.
 	## VOLUNTEER### Tutor - Buckingham Youth Brigade, 2011 - 2014- Worked with underprivileged students ranging from middle school to college level.- Facilitated tutoring sessions and helping the students with various school and work related issues.  
 ----
-Last updated:  12/12/15
+Last updated:  5/21/18
